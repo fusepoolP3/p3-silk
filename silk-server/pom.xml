@@ -6,12 +6,12 @@
   <parent>
     <groupId>eu.fusepool.p3.ext.de.fuberlin.wiwiss.silk</groupId>
     <artifactId>silk</artifactId>
-    <version>2.6.1-SNAPSHOT</version>
+    <version>2.6.0</version>
   </parent>
   
   <groupId>eu.fusepool.p3.ext.de.fuberlin.wiwiss.silk</groupId>
   <artifactId>silk-server</artifactId>
-  <version>2.6.1-SNAPSHOT</version>
+  <version>2.6.0</version>
   <packaging>war</packaging>
   <name>Silk Server</name>
 
@@ -20,12 +20,12 @@
     <dependency>
       <groupId>eu.fusepool.p3.ext.de.fuberlin.wiwiss.silk</groupId>
       <artifactId>silk-core</artifactId>
-      <version>2.6.1-SNAPSHOT</version>
+      <version>2.6.0</version>
     </dependency>
     <dependency>
       <groupId>eu.fusepool.p3.ext.de.fuberlin.wiwiss.silk</groupId>
       <artifactId>silk-jena</artifactId>
-      <version>2.6.1-SNAPSHOT</version>
+      <version>2.6.0</version>
     </dependency>
 
     <dependency>
