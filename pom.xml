@@ -9,7 +9,6 @@
         <version>1</version>
     </parent>
     <properties>
-        <silk.version>2.6.0-SNAPSHOT</silk.version>
         <scala.version>2.10.3</scala.version>
         <scalatest.version>2.1.0</scalatest.version>
         <skipTests>true</skipTests>
