@@ -3,6 +3,11 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
+    <parent>
+        <groupId>eu.fusepool.p3</groupId> 
+        <artifactId>p3</artifactId>
+        <version>1</version>
+    </parent>
   <properties>
     <silk.version>2.6.0-SNAPSHOT</silk.version>
     <scala.version>2.10.3</scala.version>
@@ -12,7 +17,7 @@
   </properties>
 
   <modelVersion>4.0.0</modelVersion>
-  <groupId>de.fuberlin.wiwiss.silk</groupId>
+  <groupId>eu.fusepool.p3.ext.de.fuberlin.wiwiss.silk</groupId>
   <artifactId>silk</artifactId>
   <packaging>pom</packaging>
   <name>Silk</name>
@@ -154,22 +159,5 @@
     </dependency>
 
   </dependencies>
-
-  <distributionManagement>
-    <repository>
-      <id>scala-tools.org</id>
-      <url>
-        http://nexus.scala-tools.org/content/repositories/releases/
-      </url>
-    </repository>
-
-    <snapshotRepository>
-      <id>scala-tools.org</id>
-      <url>
-        http://nexus.scala-tools.org/content/repositories/snapshots/
-      </url>
-      <uniqueVersion>false</uniqueVersion>
-    </snapshotRepository>
-  </distributionManagement>
 
 </project>

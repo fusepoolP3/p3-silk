@@ -6,7 +6,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>de.fuberlin.wiwiss.silk</groupId>
+    <groupId>eu.fusepool.p3.ext.de.fuberlin.wiwiss.silk</groupId>
     <artifactId>silk</artifactId>
     <version>2.6.0-SNAPSHOT</version>
   </parent>
@@ -18,7 +18,7 @@
   <dependencies>
 
     <dependency>
-      <groupId>de.fuberlin.wiwiss.silk</groupId>
+      <groupId>eu.fusepool.p3.ext.de.fuberlin.wiwiss.silk</groupId>
       <artifactId>silk-workspace</artifactId>
       <version>2.6.0-SNAPSHOT</version>
       <exclusions>
@@ -129,7 +129,7 @@
           <archive>
             <manifest>
               <addClasspath>true</addClasspath>
-              <mainClass>de.fuberlin.wiwiss.silk.workbench.lift.Main</mainClass>
+              <mainClass>eu.fusepool.p3.ext.de.fuberlin.wiwiss.silk.workbench.lift.Main</mainClass>
             </manifest>
           </archive>
           <packagingExcludes>jetty</packagingExcludes>
@@ -145,7 +145,7 @@
           </descriptorRefs>
           <archive>
             <manifest>
-              <mainClass>de.fuberlin.wiwiss.silk.workbench.lift.Main</mainClass>
+              <mainClass>eu.fusepool.p3.ext.de.fuberlin.wiwiss.silk.workbench.lift.Main</mainClass>
             </manifest>
           </archive>
         </configuration>
