@@ -18,7 +18,7 @@
     <artifactId>silk</artifactId>
     <packaging>pom</packaging>
     <name>Silk</name>
-    <version>2.6.0</version>
+    <version>2.6.1-SNAPSHOT</version>
     <description>The Silk framework is a tool for discovering relationships between data items within different Linked Data sources. Data publishers can use Silk to set RDF links from their data sources to other data sources on the Web.</description>
     <url>http://www4.wiwiss.fu-berlin.de/bizer/silk/</url>
     <licenses>
@@ -32,7 +32,7 @@
         <url>https://github.com/fusepoolP3/p3-silk</url>
         <connection>scm:git:https://github.com/fusepoolp3/p3-silk</connection>
         <developerConnection>scm:git:git@github.com:fusepoolp3/p3-silk.git</developerConnection>
-        <tag>silk-2.6.0</tag>
+        <tag>HEAD</tag>
     </scm>
     <developers>
         <developer>
