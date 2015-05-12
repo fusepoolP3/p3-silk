@@ -1,0 +1,136 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+2 items
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala -> C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\target\classes
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\test\scala -> C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\target\test-classes
+compile options:
+6 items
+0 -> -javabootclasspath
+1 -> C:\Program Files\Java\jdk1.7.0_11\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_11\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_11\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_11\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_11\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_11\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_11\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.7.0_11\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.7.0_11\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.7.0_11\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.7.0_11\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.7.0_11\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.7.0_11\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.7.0_11\jre\lib\ext\zipfs.jar
+2 -> -javaextdirs
+3 ->  
+4 -> -bootclasspath
+5 -> C:\Users\sll2\Downloads\scala-4.0.0\eclipse\plugins\org.scala-ide.scala210.jars_4.0.0.201503031935\target\jars\scala-library.jar
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+6 items
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\target\classes\de\fuberlin\wiwiss\silk\Silk$$anonfun$1.class
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\target\classes\de\fuberlin\wiwiss\silk\Silk$$anonfun$execute$1.class
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\target\classes\de\fuberlin\wiwiss\silk\Silk$$anonfun$executeConfig$1.class
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\target\classes\de\fuberlin\wiwiss\silk\Silk$$anonfun$main$1.class
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\target\classes\de\fuberlin\wiwiss\silk\Silk$.class
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\target\classes\de\fuberlin\wiwiss\silk\Silk.class
+binary dependencies:
+15 items
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> C:\Program Files\Java\jdk1.7.0_11\jre\lib\rt.jar
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> C:\Users\sll2\.m2\repository\eu\fusepool\p3\ext\de\fuberlin\wiwiss\silk\silk-jena\2.6.0\silk-jena-2.6.0.jar
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> C:\Users\sll2\Downloads\scala-4.0.0\eclipse\plugins\org.scala-ide.scala210.jars_4.0.0.201503031935\target\jars\scala-library.jar
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\config\LinkingConfig$.class
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\config\LinkingConfig.class
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\config\LinkSpecification.class
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\config\RuntimeConfig.class
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\execution\GenerateLinksTask.class
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\plugins\Plugins$.class
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\runtime\resource\FileResourceManager.class
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\runtime\task\Task.class
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\util\CollectLogs$.class
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\util\Identifier$.class
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\util\StringUtils$.class
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\util\ValidatingXMLReader.class
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+6 items
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> de.fuberlin.wiwiss.silk.Silk
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> de.fuberlin.wiwiss.silk.Silk$
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> de.fuberlin.wiwiss.silk.Silk$$anonfun$1
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> de.fuberlin.wiwiss.silk.Silk$$anonfun$execute$1
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> de.fuberlin.wiwiss.silk.Silk$$anonfun$executeConfig$1
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> de.fuberlin.wiwiss.silk.Silk$$anonfun$main$1
+used names:
+0 items
+product stamps:
+6 items
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\target\classes\de\fuberlin\wiwiss\silk\Silk$$anonfun$1.class -> lastModified(1431425552310)
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\target\classes\de\fuberlin\wiwiss\silk\Silk$$anonfun$execute$1.class -> lastModified(1431425552310)
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\target\classes\de\fuberlin\wiwiss\silk\Silk$$anonfun$executeConfig$1.class -> lastModified(1431425552311)
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\target\classes\de\fuberlin\wiwiss\silk\Silk$$anonfun$main$1.class -> lastModified(1431425552312)
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\target\classes\de\fuberlin\wiwiss\silk\Silk$.class -> lastModified(1431425552290)
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\target\classes\de\fuberlin\wiwiss\silk\Silk.class -> lastModified(1431425552270)
+source stamps:
+1 items
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> hash(aaf6466fd69cc9b8f8e8158b45b1fd8126b76ae6)
+binary stamps:
+15 items
+C:\Program Files\Java\jdk1.7.0_11\jre\lib\rt.jar -> lastModified(1404833932142)
+C:\Users\sll2\.m2\repository\eu\fusepool\p3\ext\de\fuberlin\wiwiss\silk\silk-jena\2.6.0\silk-jena-2.6.0.jar -> lastModified(1430827496726)
+C:\Users\sll2\Downloads\scala-4.0.0\eclipse\plugins\org.scala-ide.scala210.jars_4.0.0.201503031935\target\jars\scala-library.jar -> lastModified(1430931357821)
+C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\config\LinkingConfig$.class -> lastModified(1431422434023)
+C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\config\LinkingConfig.class -> lastModified(1431422434045)
+C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\config\LinkSpecification.class -> lastModified(1431422433996)
+C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\config\RuntimeConfig.class -> lastModified(1431422434135)
+C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\execution\GenerateLinksTask.class -> lastModified(1431422435095)
+C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\plugins\Plugins$.class -> lastModified(1431422435996)
+C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\runtime\resource\FileResourceManager.class -> lastModified(1431422438504)
+C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\runtime\task\Task.class -> lastModified(1431422438568)
+C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\util\CollectLogs$.class -> lastModified(1431422438819)
+C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\util\Identifier$.class -> lastModified(1431422438848)
+C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\util\StringUtils$.class -> lastModified(1431422438957)
+C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\util\ValidatingXMLReader.class -> lastModified(1431422439108)
+class names:
+15 items
+C:\Program Files\Java\jdk1.7.0_11\jre\lib\rt.jar -> java.lang.Object
+C:\Users\sll2\.m2\repository\eu\fusepool\p3\ext\de\fuberlin\wiwiss\silk\silk-jena\2.6.0\silk-jena-2.6.0.jar -> de.fuberlin.wiwiss.silk.plugins.jena.JenaPlugins$
+C:\Users\sll2\Downloads\scala-4.0.0\eclipse\plugins\org.scala-ide.scala210.jars_4.0.0.201503031935\target\jars\scala-library.jar -> scala.Option
+C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\config\LinkingConfig$.class -> de.fuberlin.wiwiss.silk.config.LinkingConfig$
+C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\config\LinkingConfig.class -> de.fuberlin.wiwiss.silk.config.LinkingConfig
+C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\config\LinkSpecification.class -> de.fuberlin.wiwiss.silk.config.LinkSpecification
+C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\config\RuntimeConfig.class -> de.fuberlin.wiwiss.silk.config.RuntimeConfig
+C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\execution\GenerateLinksTask.class -> de.fuberlin.wiwiss.silk.execution.GenerateLinksTask
+C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\plugins\Plugins$.class -> de.fuberlin.wiwiss.silk.plugins.Plugins$
+C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\runtime\resource\FileResourceManager.class -> de.fuberlin.wiwiss.silk.runtime.resource.FileResourceManager
+C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\runtime\task\Task.class -> de.fuberlin.wiwiss.silk.runtime.task.Task
+C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\util\CollectLogs$.class -> de.fuberlin.wiwiss.silk.util.CollectLogs$
+C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\util\Identifier$.class -> de.fuberlin.wiwiss.silk.util.Identifier$
+C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\util\StringUtils$.class -> de.fuberlin.wiwiss.silk.util.StringUtils$
+C:\Users\sll2\projects\github\p3-silk\silk-core\target\classes\de\fuberlin\wiwiss\silk\util\ValidatingXMLReader.class -> de.fuberlin.wiwiss.silk.util.ValidatingXMLReader
+internal apis:
+1 items
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC7QOVZAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAcZGUuZnViZXJsaW4ud2l3aXNzLnNpbGsuU2lsa3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AC94cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AC4AcHNxAH4AM3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADdzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AFnEAfgAgdXEAfgAhAAAAAHNxAH4AIwB0AARtYWludXEAfgAmAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADZ0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgA2c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBVdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+ABxMAAN0cGVxAH4AQXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AKXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4ASVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4ANnNxAH4ASHQABUFycmF5cQB+AE51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4ASHQABlN0cmluZ3NxAH4ATHNxAH4AT3VxAH4AUgAAAANzcQB+AFR0AARqYXZhc3EAfgBUdAAEbGFuZ3EAfgBZc3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cQB+AG0AAAACc3EAfgBIdAAGT2JqZWN0cQB+AHFzcQB+AEh0AANBbnlxAH4ATnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+ABx4cHQAF2RlLmZ1YmVybGluLndpd2lzcy5zaWxrc3EAfgCEdAASZGUuZnViZXJsaW4ud2l3aXNzc3EAfgCEdAALZGUuZnViZXJsaW5zcQB+AIR0AAJkZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTUechjh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAnNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdABHQzpcVXNlcnNcc2xsMlxwcm9qZWN0c1xnaXRodWJccDMtc2lsa1xzaWxrLXNpbmdsZW1hY2hpbmVcdGFyZ2V0XGNsYXNzZXN0AEdDOlxVc2Vyc1xzbGwyXHByb2plY3RzXGdpdGh1YlxwMy1zaWxrXHNpbGstc2luZ2xlbWFjaGluZVxzcmNcbWFpblxzY2FsYXNxAH4AknQATEM6XFVzZXJzXHNsbDJccHJvamVjdHNcZ2l0aHViXHAzLXNpbGtcc2lsay1zaW5nbGVtYWNoaW5lXHRhcmdldFx0ZXN0LWNsYXNzZXN0AEdDOlxVc2Vyc1xzbGwyXHByb2plY3RzXGdpdGh1YlxwMy1zaWxrXHNpbGstc2luZ2xlbWFjaGluZVxzcmNcdGVzdFxzY2FsYXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAUqvZGb9acybj46BWLRbH9gSa3auY=
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\sll2\projects\github\p3-silk\silk-singlemachine\src\main\scala\de\fuberlin\wiwiss\silk\Silk.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTUechjh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAnNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXHNsbDJccHJvamVjdHNcZ2l0aHViXHAzLXNpbGtcc2lsay1zaW5nbGVtYWNoaW5lXHRhcmdldFxjbGFzc2VzdABHQzpcVXNlcnNcc2xsMlxwcm9qZWN0c1xnaXRodWJccDMtc2lsa1xzaWxrLXNpbmdsZW1hY2hpbmVcc3JjXG1haW5cc2NhbGFzcQB+AAV0AExDOlxVc2Vyc1xzbGwyXHByb2plY3RzXGdpdGh1YlxwMy1zaWxrXHNpbGstc2luZ2xlbWFjaGluZVx0YXJnZXRcdGVzdC1jbGFzc2VzdABHQzpcVXNlcnNcc2xsMlxwcm9qZWN0c1xnaXRodWJccDMtc2lsa1xzaWxrLXNpbmdsZW1hY2hpbmVcc3JjXHRlc3Rcc2NhbGE=
